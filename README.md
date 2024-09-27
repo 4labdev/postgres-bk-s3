@@ -1,6 +1,6 @@
 ## PostgreSQL Database Backup Automation
 
-This repository contains scripts to automate the backup of PostgreSQL databases and upload the backups to an S3 bucket, with optional support for scheduling via cron and encryption. Below are the instructions for configuring and using the backup process.
+This project is based on the work of the GitHub user [schickling](https://github.com/schickling/dockerfiles/tree/master/postgres-backup-s3) and extends it to include encryption options, S3 uploads, and scheduling with cron for PostgreSQL database backups. Below are the instructions for configuring and using the backup process.
 
 ### Files
 
