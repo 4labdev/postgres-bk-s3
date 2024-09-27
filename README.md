@@ -1,7 +1,3 @@
-No problem! Here is the documentation translated into English:
-
----
-
 ## PostgreSQL Database Backup Automation
 
 This repository contains scripts to automate the backup of PostgreSQL databases and upload the backups to an S3 bucket, with optional support for scheduling via cron and encryption. Below are the instructions for configuring and using the backup process.
